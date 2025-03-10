@@ -1,5 +1,5 @@
 function updateRuntime() {
-    const startDate = new Date('2025-2-24T00:00:00'); // 建站日期
+    const startDate = new Date('2021-2-24T00:00:00'); // 建站日期
     const now = new Date();
     const elapsed = now - startDate;
 
